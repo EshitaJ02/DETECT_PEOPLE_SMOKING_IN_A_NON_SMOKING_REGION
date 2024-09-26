@@ -1,3 +1,7 @@
+TS- AI TRACK CAPSTONE PROJECT
+
+REAL TIME DETECTION OF SMOKERS IN NO SMOKING ZONES
+
 Smoking done in non-smoking areas can be hazardous for the active smokers as well as the passive smokers. In a place like a medical laboratory, it might be difficult to track smokers in human absence. If a person happens to smoke in such an area, this could lead to any mishap such as fire accidents because of the presence of flammable chemicals. This survey paper has represented a model that detects smoking gestures on the places it is prohibited using deep learning and implements an application that sends a notification to notify authorities of the violation of rule.
 
 PROBLEM STATEMENT
